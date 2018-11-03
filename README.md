@@ -18,7 +18,7 @@ rului de caramizi, aparand toate in scena simultan, se va apasa tasta R.
 Sansa de powerup implicita este de 15%. Daca se doreste o sansa de 100% se va apasa tasta P.
 Tastele 1, 2, 3, 4, 5 si 6 reprezinta delectari ambientale, lasate ca surprize pentru corectori. :)
 
-    PS: dupa ce activati una din aceste optiuni surpriza, trebuie sa o dezactivati pentru a le accesa pe urmatoarele,
+PS: dupa ce activati una din aceste optiuni surpriza, trebuie sa o dezactivati pentru a le accesa pe urmatoarele,
     intrucat se vor suprapune si va iesi haos. 
 
  
