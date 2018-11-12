@@ -38,3 +38,5 @@ PS: dupa ce activati una din aceste optiuni surpriza, trebuie sa o dezactivati p
     6 - SUPER MARIO THEME
 
 Hope you liked my choices!
+
+    Framework needed. It can be fully downloaded from https://www.dropbox.com/s/6e33ul3rki9bvhv/BrickBreaker.zip?dl=0
