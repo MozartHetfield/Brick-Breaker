@@ -1,9 +1,3 @@
-    Autor: Soare Alexandru
-    Universitatea si Facultatea: UPB, ACS, CTI
-    Anul universitar: 2018-2019 (anul III)
-    Grupa si Seria: 333 CC
-    Tema I: Brick Breaker
-
 Cu privire la explicarea demersului proiectului, exista comentarii pentru fiecare modularizare a acestuia, urmand ca
 functionalitatile aditionale sa fie explicate mai jos:
 
@@ -16,7 +10,7 @@ Pentru a comuta culoarea background-ului intre negru si alb se va actiona tasta 
 Daca se doreste restartarea jocului, se poate apasa tasta G, in timp ce daca se doreste doar restartarea numa-
 rului de caramizi, aparand toate in scena simultan, se va apasa tasta R.
 Sansa de powerup implicita este de 15%. Daca se doreste o sansa de 100% se va apasa tasta P.
-Tastele 1, 2, 3, 4, 5 si 6 reprezinta delectari ambientale, lasate ca surprize pentru corectori. :)
+Tastele 1, 2, 3, 4, 5 si 6 reprezinta delectari ambientale, lasate ca surprize pentru jucatori. :)
 
 PS: dupa ce activati una din aceste optiuni surpriza, trebuie sa o dezactivati pentru a le accesa pe urmatoarele,
     intrucat se vor suprapune si va iesi haos. 
